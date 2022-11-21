@@ -82,6 +82,7 @@ To contribute:
  |  [IBM](https://ibm.biz/IBMinternships) |  Across Canada (Toronto, Markham, Ottawa, Fredricton,...) | Rolling Applications | No Set Application Deadline - Starting in Fall, Continuing Through the Spring Season  |
  |  [Mark43](https://www.mark43.com/departments/engineering/)  | Toronto |   | |
  |  [Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Development-Engineer-Intern--Summer-2021_R-113650-1) |  Vancouver |   |  |
+ | [McAfee](https://careers.mcafee.com/job/-/-/731/38171709520?source=LinkedIn) | Canada(Remote)
  |  [Microsoft](https://careers.microsoft.com/students/us/en/job/1115401/Software-Engineer-Intern-Opportunities%E2%80%AF%E2%80%AF) | Vancouver, Toronto |  
  |  [OTPP](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers) |  Toronto |   |   |
  |  [Publicis sapient](https://sapient.avature.net/pscampus) | Toronto |  | |
